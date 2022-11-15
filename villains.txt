@@ -1,0 +1,20 @@
+WIDOW
+Ability: Has the ability to create steel webbing and can summon robotic spiders.
+Slogan: The world will be spun in my web.
+Conquered the World: 0
+Weakness: Heat
+Strengths:
+
+AlligatoRaider
+Ability: Can smell treasure and wears an eyepatch that becomes the siren of the sea.
+Slogan: This gator will not see you later.
+Conquered the World: 0
+Weakness: Dentists
+Strengths:
+
+Lady of Corn:
+Ability: Can create a storm of falling corn. 
+Slogan: Redacted
+Conquered the World: Almost
+Weakness: Mayonaise
+Strengths: Butter
